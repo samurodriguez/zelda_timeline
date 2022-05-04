@@ -1,0 +1,10 @@
+.goty {
+  font-size: 1.5rem;
+  font-weight: bold;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  transform: rotate(-30deg) translate(-50%, -50%);
+  transform-origin: top left;
+  text-shadow: 1px 1px 5px rgba(70, 37, 35, 50%);
+}
